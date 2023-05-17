@@ -20,3 +20,14 @@
 - Implemented BFS and A* on a matrix. I had a lot of fun with it.
 - I also tried **netlify.com** which is very useful for hosting the frontend.
 - Technologies used: **Javascript**, **React**.
+
+**Toy Language Interpreter** \[[source code](https://github.com/raulmogos/Toy-Language-Interpreter/tree/raul/6)] 2020
+- This was a university project that consisted in implementing a language interpreted in JAVA.
+- Used the OOP principles and some design patterns.
+- The "code" was an object and in the end, the output of the code was written in the console. We didn't have a parser. 
+- Technologies used: **Java**, **JavaFX**.
+
+**raulm (personal site)** \[[source code](https://github.com/raulmogos/raulm)]
+- https://raulm.herokuapp.com/
+- Technologies used: **Javascript**, **ReactJs**, **ExpressJs**
+
