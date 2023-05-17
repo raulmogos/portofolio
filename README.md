@@ -1,5 +1,27 @@
 # Portofolio - Personal Projects
 
+
+<br />
+
+## All technologies used in the projects:
+  - `Python`:
+    - `PyGame`, `PyQt5`
+    - `Flask`, `Django`, `FastAPI`, 
+    - `Pandas`, `Numpy`, 
+    - `SKlearn`, `TensorFlow`, `OpenCV`
+  - `JavaScript`:
+    - `React`, `Redux`
+    - `Express`
+  - `Octave`, `Matlab`
+  - `Java`:
+    - `JavaFX`
+    - `Spring`
+
+<br />
+
+
+## Projects:
+
 **Machine Learning Coursera (Exercises)** \[[source code](https://github.com/raulmogos/machine-learning-coursera)] 2021
 - I enrolled in one of the best courses online - Machine Learning by Andrew Ng [link](https://www.coursera.org/specializations/machine-learning-introduction)
 - Topics covered:
