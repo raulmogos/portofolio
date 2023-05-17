@@ -35,20 +35,20 @@
   - Recommender systems - collaborative filtering
   - Stochastic Gradient descent
 - I got 100% for each exercise submitted.
-- Technologies used: **Octave**, **Matlab**.
+- Technologies used: `Octave`, `Matlab`.
 
 <br />
 
 **Pacman** \[[source code](https://github.com/raulmogos/pacman)] 2023
 - A simple copy of the original game Snake. Made it just for fun during my Erasmus semester in Roma.
 - Also made a script to customize your own map.
-- Technologies used: **Python**, **Pygame**.
+- Technologies used: `Python`, `Pygame`.
 
 <br />
 
 **Minesweeper** \[[source code](https://github.com/raulmogos/MineSweeper)] 2019
 - A simple copy of the original game Minesweeper.
-- Technologies used: **Python**, **PyQt5**.
+- Technologies used: `Python`, `PyQt5`.
 
 <br />
 
@@ -56,7 +56,7 @@
 - Following a tutorial online I made a simple full-stack application.
 - It has all the CRUD functionalities.
 - The main objective of this was to learn Django.
-- Technologies used: **Django**, **React**
+- Technologies used: `Django`, `React`
 
 <br />
 
@@ -64,7 +64,7 @@
 - webapp: https://path-finding-visualizer-raulm.netlify.app/
 - Implemented BFS and A* on a matrix. I had a lot of fun with it.
 - I also tried **netlify.com** which is very useful for hosting the frontend.
-- Technologies used: **Javascript**, **React**.
+- Technologies used: `Javascript`, `React`.
 
 <br />
 
@@ -72,13 +72,13 @@
 - This was a university project that consisted in implementing a language interpreted in JAVA.
 - Used the OOP principles and some design patterns.
 - The "code" was an object and in the end, the output of the code was written in the console. We didn't have a parser. 
-- Technologies used: **Java**, **JavaFX**.
+- Technologies used: `Java`, `JavaFX`.
 
 <br />
 
 **raulm (personal site)** \[[source code](https://github.com/raulmogos/raulm)]
 - https://raulm.herokuapp.com/
-- Technologies used: **Javascript**, **ReactJs**, **ExpressJs**
+- Technologies used: `Javascript`, `ReactJs`, `ExpressJs`
 
 <br />
 
@@ -91,12 +91,12 @@
   - Ant colony optimization
   - Decision tree
   - Neural Networks
-- Technologies used: **Python**, **OpenCV**, **Numpy**, **Pandas**
+- Technologies used: `Python`, `OpenCV`, `Numpy`, `Pandas`
  
 <br />
 
-**Game of life** \[[source code](https://github.com/raulmogos/game-of-life)]
+**Game of life** \[[source code](https://github.com/raulmogos/game-of-life)] 2020
 - A simple copy of the original game.
-- Technologies used: **Python**, **Pygame**
+- Technologies used: `Python`, `Pygame`
 
 <br />
